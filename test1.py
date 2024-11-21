@@ -1,3 +1,4 @@
 x=1
 y=x+1
-print(y)
+x,y=y,x
+print(x,y)
